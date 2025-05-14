@@ -8,7 +8,6 @@ style: custom-style.css
   <h2>Allowing people to understand their gut health through effective stool tracking.</h2>
 </div>
 
----
 
 <style>
 
